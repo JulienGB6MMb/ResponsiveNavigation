@@ -1,5 +1,10 @@
 
 
+html {
+	width: 100%;
+	overflow-x: hidden;
+	overflow: overlay;
+}
 body {
 	font-family: Arial, sans-serif;
     margin: 0;
